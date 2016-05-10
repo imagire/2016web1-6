@@ -15,8 +15,6 @@ body{
   margin-right: 30px;
 }
 
-.curry_picture:after {
-  content: "";
-	clear: both;
-	display: block;
+.curry_picture {
+  clear-after: left;
 }
