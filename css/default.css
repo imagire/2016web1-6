@@ -15,7 +15,7 @@ body{
   margin-right: 30px;
 }
 
-.clearfix {
+.clearfix :after{
   content: "";
   clear: both;
   display: block;
@@ -23,8 +23,4 @@ body{
 
 .curry_picture:after  {
   @extend .clearfix;
-  content: "";
-  clear: both;
-  display: block;
-  
 }
