@@ -23,4 +23,8 @@ body{
 
 .curry_picture:after  {
   @extend .clearfix;
+  content: "";
+  clear: both;
+  display: block;
+  
 }
