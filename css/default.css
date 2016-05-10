@@ -21,6 +21,6 @@ body{
   display: block;
 }
 
-.curry_pictureafter  {
+.curry_picture:after  {
   @extend .clearfix;
 }
