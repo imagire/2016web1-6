@@ -16,6 +16,7 @@ body{
   float: left;
   margin-right: 30px;
 }
+
 .curry_picture:after{
   content: "";
   clear: both;
@@ -23,7 +24,7 @@ body{
 }
 
 dt{
-  clear: both;
+  clear: left;
   float: left;
   font-weight: bold;
 }
