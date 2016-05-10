@@ -24,10 +24,9 @@ body{
 }
 
 dl{
-  float: left;
+  clear: both;
 }
 dt{
-  clear: left;
   float: left;
   font-weight: bold;
 }
