@@ -23,6 +23,11 @@ body{
   display: block;
 }
 
+
+dl{
+  float: left;
+}
+
 dt{
   clear: left;
   float: left;
