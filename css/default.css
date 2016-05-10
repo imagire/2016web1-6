@@ -15,12 +15,12 @@ body{
   margin-right: 30px;
 }
 
-.clearfix:after {
+.clearfix {
   content: "";
   clear: both;
   display: block;
 }
 
-.curry_picture {
+.curry_pictureafter  {
   @extend .clearfix;
 }
