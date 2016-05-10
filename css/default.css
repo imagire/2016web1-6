@@ -21,9 +21,7 @@ body{
   clear: both;
   display: block;
 }
-dl{
-  float: left;
-}
+
 dt{
   clear: both;
   float: left;
