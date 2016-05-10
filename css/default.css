@@ -23,7 +23,7 @@ body{
   display: block;
 }
 
-dl{
+.explanation{
   float: left;
 }
 dt{
