@@ -24,7 +24,7 @@ body{
 }
 */
 dl{
-  clear: both;
+/*  clear: both;*/
 }
 dt{
   float: left;
