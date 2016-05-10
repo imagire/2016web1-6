@@ -24,9 +24,6 @@ body{
 dl{
   float: left;
 }
-dl:after{
-  clear: both;
-}
 dt{
   clear: both;
   float: left;
