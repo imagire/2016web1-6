@@ -23,8 +23,8 @@ body{
   display: block;
 }
 
-
 dl{
+  clear: left;
   float: left;
 }
 
