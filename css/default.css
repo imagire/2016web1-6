@@ -17,7 +17,7 @@ body{
   margin-right: 30px;
 }
 
-.curry_picture: after{
+.curry_picture:after{
   content: "";
   clear: both;
   display: block;
