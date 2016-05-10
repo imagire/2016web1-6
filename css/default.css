@@ -17,12 +17,8 @@ body{
   margin-right: 30px;
 }
 
-.clearfix{
+.curry_picture: after{
   content: "";
   clear: both;
   display: block;
-}
-
-.curry_picture:after  {
-  @extend .clearfix;
 }
