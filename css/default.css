@@ -67,15 +67,16 @@ dt{
 }
 
 th{
-  border: 1px solid lightcoral;
-  background-color: mistyrose;
-  padding: 5px;
-  width: 100px;
+  border: 1px solid lightcoral;  /* 枠線 */
+  background-color: mistyrose;   /* 背景色 */
+  padding: 5px;                  /* 枠内の余白 */
+  width: 100px;                  /* 幅 */
+  text-align: right;             /* 中央寄せ */
 }
 
 td{
-  border: 1px solid lightcoral;
-  padding: 5px;
-  width: 80px;
-  text-align: right;
+  border: 1px solid lightcoral;  /* 枠線 */
+  padding: 5px;                  /* 枠内の余白 */
+  width: 80px;                   /* 幅 */
+  text-align: right;             /* 右寄せ */
 }
