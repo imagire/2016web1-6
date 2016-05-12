@@ -33,3 +33,9 @@ dt{
   float: left;
   font-weight: bold;
 }
+
+.btn {
+  border: none;
+  padding: 20px;
+}
+}
