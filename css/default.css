@@ -66,6 +66,13 @@ dt{
   border-collapse: collapse;
 }
 
-th, td{
+th{
   border: 1px solid lightcoral;
+  background-color: mistyrose;
+  padding: 5px;
+}
+
+td{
+  border: 1px solid lightcoral;
+  padding: 5px;
 }
