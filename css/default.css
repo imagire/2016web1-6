@@ -35,6 +35,5 @@ dt{
 }
 
 .btn {
-  border: none;
-  margin: 5px;
+  -webkit-appearance: none;
 }
