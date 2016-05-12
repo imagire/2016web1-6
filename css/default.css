@@ -80,3 +80,13 @@ td{
   width: 80px;                   /* 幅 */
   text-align: right;             /* 右寄せ */
 }
+
+thead.th{
+  background-color: white;        /* 背景色 */
+}
+thead.td{
+  background-color: lightcoral;   /* 背景色 */
+}
+tfoot.td{
+  font-weight: bold;              /* 字の太さ */
+}
