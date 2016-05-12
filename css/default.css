@@ -37,9 +37,9 @@ dt{
 .btn {
   -webkit-appearance: none;
   margin: 5px;
-  width=100px;
+  width: 100px;
   padding: 10px;
-  border:none;
+  border: none;
   font-size: 16px;
 }
 
