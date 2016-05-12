@@ -81,7 +81,7 @@ td{
   text-align: right;             /* 右寄せ */
 }
 
-thead.th{
+thead.th, tfoot.th{
   background-color: white;        /* 背景色 */
 }
 thead.td{
