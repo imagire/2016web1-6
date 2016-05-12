@@ -60,3 +60,7 @@ dt{
 .btn-reset {/* リセットボタンだけの設定 */
   background-color: lightcoral;
 }
+
+#ingredient{
+  border: 1px solid lightcoral;
+}
