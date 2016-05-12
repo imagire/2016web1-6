@@ -76,5 +76,5 @@ th{
 td{
   border: 1px solid lightcoral;
   padding: 5px;
-  width: 100% - 150px;
+  width: calc(100% - 150px - 24px);
 }
