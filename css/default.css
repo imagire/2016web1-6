@@ -81,6 +81,10 @@ td{
   text-align: right;             /* 右寄せ */
 }
 
+caption{
+  padding: 5px;                  /* 余白 */
+}
+
 thead.th, tfoot.th{
   background-color: white;        /* 背景色 */
 }
