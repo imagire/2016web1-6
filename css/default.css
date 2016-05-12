@@ -70,10 +70,11 @@ th{
   border: 1px solid lightcoral;
   background-color: mistyrose;
   padding: 5px;
+  width: 200px;
 }
 
 td{
   border: 1px solid lightcoral;
   padding: 5px;
-  width: 100%;
+  width: 100% - 300px;
 }
