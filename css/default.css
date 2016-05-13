@@ -102,7 +102,3 @@ thead td{
 tfoot td{
   font-weight: bold;              /* 字の太さ */
 }
-
-#price{
-  background-color: lightyellow;  /* 背景色 */
-}
