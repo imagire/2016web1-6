@@ -101,4 +101,5 @@ thead td{
 
 tfoot td{
   font-weight: bold;              /* 字の太さ */
+  background-color: white;        /* 背景色 */
 }
