@@ -90,6 +90,7 @@ thead th, tfoot th{
 }
 thead td{
   background-color: lightcoral;   /* 背景色 */
+  text-align: right;             /* 右寄せ */
 }
 tfoot td{
   font-weight: bold;              /* 字の太さ */
