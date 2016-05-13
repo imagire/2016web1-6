@@ -85,12 +85,12 @@ caption{
   padding: 5px;                  /* 余白 */
 }
 
-thead.th, tfoot.th{
+thead th, tfoot th{
   background-color: white;        /* 背景色 */
 }
-thead.td{
+thead td{
   background-color: lightcoral;   /* 背景色 */
 }
-tfoot.td{
+tfoot td{
   font-weight: bold;              /* 字の太さ */
 }
