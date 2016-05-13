@@ -85,6 +85,10 @@ caption{
   padding: 5px;                  /* 余白 */
 }
 
+#price{
+  background-color: lightyellow;  /* 背景色 */
+}
+
 thead th, tfoot th{
   background-color: white;        /* 背景色 */
 }
