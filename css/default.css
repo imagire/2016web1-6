@@ -88,10 +88,16 @@ caption{
 thead th, tfoot th{
   background-color: white;        /* 背景色 */
 }
+
 thead td{
   background-color: lightcoral;   /* 背景色 */
-  text-align: center;           /* 中央寄せ */
+  text-align: center;             /* 中央寄せ */
 }
+
 tfoot td{
   font-weight: bold;              /* 字の太さ */
+}
+
+.colgroup.price{
+  background-color: lightyellow;  /* 背景色 */
 }
