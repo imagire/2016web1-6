@@ -71,7 +71,7 @@ th{
   background-color: mistyrose;   /* 背景色 */
   padding: 5px;                  /* 枠内の余白 */
   width: 100px;                  /* 幅 */
-  text-align: right;             /* 中央寄せ */
+  text-align: center;           /* 中央寄せ */
 }
 
 td{
@@ -90,7 +90,7 @@ thead th, tfoot th{
 }
 thead td{
   background-color: lightcoral;   /* 背景色 */
-  text-align: right;             /* 右寄せ */
+  text-align: center;           /* 中央寄せ */
 }
 tfoot td{
   font-weight: bold;              /* 字の太さ */
