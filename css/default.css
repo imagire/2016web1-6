@@ -99,6 +99,6 @@ tfoot td{
   font-weight: bold;              /* 字の太さ */
 }
 
-.price{
+#price{
   background-color: lightyellow;  /* 背景色 */
 }
