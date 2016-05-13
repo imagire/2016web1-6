@@ -90,6 +90,7 @@ thead th, tfoot th{
 }
 
 thead td{
+  color: white;                   /* 文字色 */
   background-color: lightcoral;   /* 背景色 */
   text-align: center;             /* 中央寄せ */
 }
