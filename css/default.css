@@ -98,6 +98,6 @@ tfoot td{
   font-weight: bold;              /* 字の太さ */
 }
 
-.colgroup.price{
+.price{
   background-color: lightyellow;  /* 背景色 */
 }
